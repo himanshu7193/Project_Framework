@@ -1,0 +1,6 @@
+base\TestBase.class
+pages\RegistrationPage.class
+util\Listeners.class
+util\utility.class
+pages\LoginPage.class
+pages\HomePage.class
