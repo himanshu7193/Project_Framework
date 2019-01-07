@@ -30,10 +30,5 @@ public class LoginPage extends TestBase {
 		pwd.sendKeys(user_pwd);
 		loginBtn.click();
 	}
-	
-	public void testMethod() 
-	{
-		
-	}
 
 }
